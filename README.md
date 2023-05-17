@@ -4,8 +4,7 @@
 运行一个K-means聚类算法，根据发电数据分类为晴天、阴天、雨天三类，以更好地分析光伏发电站的发电情况。
 
 数据集来源是https://purl.stanford.edu/sm043zf7254
-[点此](https://stacks.stanford.edu/file/druid:sm043zf7254/2017_pv_raw.csv)
-可以下载到数据集。
+。[点此](https://stacks.stanford.edu/file/druid:sm043zf7254/2017_pv_raw.csv)可以下载到数据集。
 
 在运行本项目代码前，需自行配置好alink的环境方可h正常运行。
 
